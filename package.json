@@ -1,0 +1,21 @@
+{
+  "name": "my-note",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "gitbook serve ./content",
+    "build": "gitbook build ./content ./gh-pages"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jianghanyue/my-note.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jianghanyue/my-note/issues"
+  },
+  "homepage": "https://github.com/jianghanyue/my-note#readme"
+}
